@@ -1,11 +1,11 @@
 [package]
 name = "log-analyser"
 version = "1.0.0"
-edition = "2021"
-authors = ["Your Name <you@example.com>"]
+edition = "2023"
+authors = ["Kauã Gabriel <kauagabrielxpgmail.com>"]
 description = "High-performance real-time log analyser with alerting and JSON export"
 license = "MIT"
-repository = "https://github.com/yourusername/log-analyser"
+repository = "https://github.com/Kaua-KGzin/log-analyser"
 readme = "README.md"
 keywords = ["logs", "monitoring", "cli", "analysis"]
 categories = ["command-line-utilities"]
