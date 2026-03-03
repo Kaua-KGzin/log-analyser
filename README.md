@@ -207,4 +207,4 @@ cargo build --release
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © [Kauã Gabriel] [https://github.com/Kaua-KGzin/}
